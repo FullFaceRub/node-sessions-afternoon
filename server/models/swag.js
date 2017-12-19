@@ -1,3 +1,5 @@
+
+
 module.exports = [
   { id: 1, title: 'Snapback ( red )', category: 'hats', price: 10 },
   { id: 5, title: 'Jacket ( black )', category: 'jackets', price: 15 },
